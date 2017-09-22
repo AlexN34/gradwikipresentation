@@ -1,0 +1,6 @@
+body:after {
+    content: url(../images/logowhite.png);
+    position: fixed;
+    right: 3.5em;
+    top: 3.5em;
+}
